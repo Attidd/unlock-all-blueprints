@@ -1,5 +1,7 @@
+UPDATED VERSION THAT INCLUDES LOYALTY SKINS.  
+
 # How to install
-Download the mod from https://github.com/nuzkito/unlock-all-blueprints/releases/download/1.0.0/Unlock_Blueprints.zip
+Download the mod from https://github.com/Attidd/unlock-all-blueprints/releases/download/1.0.1/Unlock.Blueprints.7z
 
 Go to the local mod folder and unzip it. 
 
