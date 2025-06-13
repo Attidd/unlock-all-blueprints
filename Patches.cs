@@ -5,11 +5,11 @@ namespace Unlock_Blueprints
 {
     public class Patches
     {
-        [HarmonyPatch(typeof(Blueprints_U51AndBefore))]
+        [HarmonyPatch(typeof(Blueprints_U53))]
         [HarmonyPatch("SetupBlueprints")]
-        public class Blueprints_U51AndBefore_SetupBlueprints_Patch
+        public class Blueprints_U53_SetupBlueprints_Patch
         {
-            public static void Postfix(ref Blueprints_U51AndBefore __instance)
+            public static void Postfix(ref Blueprints_U53 __instance)
             {
                 foreach (var buildingFacade in __instance.blueprintCollection.buildingFacades)
                 {
